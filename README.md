@@ -1,7 +1,8 @@
 # BUG REPORTS
 
 Some of my exercises of reporting bugs in JIRA &#9997;
-Reports were done in polish language.
+
+<p><b>Reports were done in polish language.</b><p>
 
 ## Reports done by me:
 
