@@ -58,3 +58,6 @@
 ![mobile_ex.3](9_mobile_niepelnetlumaczenie_biedronka.jpg)
 
 ![contain](screenrecord_compressed.mp4)
+(video:
+file: screenrecord_compressed.mp4
+size: contain)
