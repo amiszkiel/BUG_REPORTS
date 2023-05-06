@@ -1,6 +1,8 @@
 # BUG REPORTS
 
-Some of my exercises of reporting bugs in JIRA &#9997;
+My accessibility bugs' reports found on web-pages you can find<a href= https://github.com/amiszkiel/BUG_REPORTS/blob/master/accesability%20testing-%20bugs%20reports.pdf><b> HERE </b></a>
+
+Some of my exercises of reporting (from JIRA) are below &#9997;
 
 <p><b>Reports were done in polish language.</b><p>
 
