@@ -57,4 +57,4 @@
 
 ![mobile_ex.3](9_mobile_niepelnetlumaczenie_biedronka.jpg)
 
-![mobile_video](screenrecord.mp4)
+![mobile_video](screenrecord_compressed.mp4)
