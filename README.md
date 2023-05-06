@@ -43,11 +43,11 @@
 
 ### MOBILE WEB PAGES:
 
-<p><b> 1. The login screen obscures the content on the page </b></p>
+<p><b> 1. The login screen obscures the content on the page of furniture store </b></p>
 
 ![mobile_ex.1](7_mobile_logowanie_meblemobi.jpg)
 
-<p><b> 2. Some of pictures have a pink stripe </b><p>
+<p><b> 2. Some of pictures have a pink stripe at the IKEA web page </b><p>
 
 ![mobile_ex.2](8_mobile_rozowypasek_ikea.jpg)
 
@@ -57,4 +57,4 @@
 
 ![mobile_ex.3](9_mobile_niepelnetlumaczenie_biedronka.jpg)
 
-![mobile_video](screenrecord_compressed.mp4)
+![contain](screenrecord_compressed.mp4)
