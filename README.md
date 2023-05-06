@@ -40,3 +40,21 @@
 <p>type of testing: exploratory</p>
 
 ![ex.6](6_nieklikalna_mapa_tvsuwalki.jpg)
+
+### MOBILE WEB PAGES:
+
+<p><b> 1. The login screen obscures the content on the page </b></p>
+
+![mobile_ex.1](7_mobile_logowanie_meblemobi.jpg)
+
+<p><b> 2. Some of pictures have a pink stripe </b><p>
+
+![mobile_ex.2](8_mobile_rozowypasek_ikea.jpg)
+
+### MOBILE APP:
+
+<p><b> 3. Incomplete translation of the text into English in the Biedronka application </b></p>
+
+![mobile_ex.3](9_mobile_niepelnetlumaczenie_biedronka.jpg)
+
+![mobile_video](screenrecord.mp4)
