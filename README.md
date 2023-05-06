@@ -56,3 +56,9 @@
 <p><b> 3. Incomplete translation of the text into English in the Biedronka application </b></p>
 
 ![mobile_ex.3](9_mobile_niepelnetlumaczenie_biedronka.jpg)
+
+
+https://user-images.githubusercontent.com/117541170/236640350-71cc26ee-2dd4-4c6b-b75b-6e1cef5a86ca.mp4
+
+
+
